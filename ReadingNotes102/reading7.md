@@ -1,0 +1,1 @@
+The combination of in class discussions and reading today have been very helpful in grasping a foundational understanding of functions in JavaScript for me. The MDN flow control reading helped me to have a very basic perspective of how coding in conditionals and loops interact with how a computer processes and outputs code.
