@@ -1,0 +1,3 @@
+CSS (Cascding Style Sheets) is a coding language that specifies how documants are presented to users. In this class HTML is being used as the markup language and CSS is being used for very basic doucument styling (such as changing colors and text sizing. CSS is a rule-based language, which defines formatting rules to HTML elements or groups of elements to be styled with CSS.
+
+CSS can be inserted into HTML Code though a style sheet in three possible ways; External CSS, Internal CSS, and Inline CSS. When there is more than one style being specified within and HTML element, style will be chosen in a Cascading Order of 1. Inline style (inside HTML element), 2. External and Internal style sheets (in the head section), and 3. Browser default. 
